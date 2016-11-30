@@ -1,2 +1,2 @@
 # HBaseStartup
-Pequeño ejemplo de base
+Pequeño ejemplo de base con xtend
